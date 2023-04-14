@@ -1,0 +1,19 @@
+{
+  "name": "discordimagesync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinPoulson/DiscordImageSync.git"
+  },
+  "author": "Austin Poulson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinPoulson/DiscordImageSync/issues"
+  },
+  "homepage": "https://github.com/AustinPoulson/DiscordImageSync#readme"
+}
